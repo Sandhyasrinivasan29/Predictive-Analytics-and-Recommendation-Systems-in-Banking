@@ -58,7 +58,6 @@ Algorithms:
 Objective: Group customers based on their transaction behavior to identify patterns and tailor services.
 # Algorithms:
 * KMeans Clustering
-* DBScan (Density-Based Spatial Clustering)
 * Hierarchical Clustering
 # Evaluation Metrics:
 * Silhouette Score: Measures how similar each point is to its own cluster compared to other clusters.
